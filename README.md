@@ -1,7 +1,5 @@
-# UFOs
 
-
-# UFOs Sightings - a Javascript Assignment
+# UFOs Sightings:
 
 In this challenge `Javascript` was used to build dynamic webpages and other customization tools that were used in this challenge include `Bootstrap`, `HTML`, and `CSS`.
 
