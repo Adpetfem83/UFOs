@@ -19,7 +19,6 @@ Are we alone in this universe? UFO sightings have been an obsession among many f
 
 ## Results
 
-The webpage **[UFO Sightings - The Truth is Out There](https://amylio.github.io/UFOs/)** has been created. Upon entering, visitors embarking on their "first encounter" will see:
 
 ![webpage](https://github.com/Adpetfem83/UFOs/blob/main/static/images/Image_nasa.jpg)
 
