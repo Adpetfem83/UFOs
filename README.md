@@ -1,11 +1,11 @@
 
 # UFOs Sightings:
 
-In this challenge `Javascript` was used to build dynamic webpages and other customization tools that were used in this challenge include `Bootstrap`, `HTML`, and `CSS`.
+In this challenge "javascript" was used to build dynamic webpages and other customization tools that were used in this challenge include "Bootstrap", "HTML", and "CSS".
 
 ## Project Overview
 
-The aim of this project was to learn how to take data that is stored as a `JavaScript` array or list and create a table to organize the information that will visually adjust the information mainly by filtering. Javascript functions were used to loop through the data to build the table and create an customized dashboard. The customizations include filters with event listeners that will record the information when an element has changed and develop an interactive webpage. Filters can be applied in many ways. In this exercise, we reviewed how to display default data in the table, listen for a button click or trigger the table to update based on the user's input with a select criteria. Finally, we use `HTML`, `Bootstrap` and `CSS` to read the `Javascript` code and create a webpage that is easy to view, includes filters, images, and a synopsis of the topic.
+The aim of this project was to learn how to take data that is stored as a "JavaScript" array or list and create a table to organize the information that will visually adjust the information mainly by filtering. Javascript functions were used to loop through the data to build the table and create an customized dashboard. The customizations include filters with event listeners that will record the information when an element has changed and develop an interactive webpage. Filters can be applied in many ways. In this exercise, we reviewed how to display default data in the table, listen for a button click or trigger the table to update based on the user's input with a select criteria. Finally, we use `HTML`, `Bootstrap` and `CSS` to read the `Javascript` code and create a webpage that is easy to view, includes filters, images, and a synopsis of the topic.
 
 ## Topic
 
