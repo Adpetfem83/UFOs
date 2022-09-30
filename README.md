@@ -18,6 +18,7 @@ Are we alone in this universe? UFO sightings have been an obsession among many f
 ![UFO](https://github.com/Adpetfem83/UFOs/blob/main/static/images/UFOs_image.jpeg)
 
 ## Results
+The webpage **[UFO Sightings - The Truth is Out There] has been created. Upon entering, visitors embarking on their "first encounter" will see the following:
 
 
 ![webpage](https://github.com/Adpetfem83/UFOs/blob/main/static/images/Image_nasa.jpg)
@@ -26,15 +27,15 @@ As it is displayed below a **"Filter Search"** section has be added to make it e
 
 ![unfilter](https://github.com/Adpetfem83/UFOs/blob/main/static/images/Unfiltered_page.png)
 
-You can filter by one or all of the search criteria shown. For example, if you search by **"City"**, you will see that the table updated to show the reported sightings that was recorded for that specific city.
+We can filter by one or all of the search criteria shown. For example, If we search by **"City"**, you will see that the table updated to show the reported sightings that was recorded for that specific city.
 
 ![filtercity](https://github.com/Adpetfem83/UFOs/blob/main/static/images/Filtered_by_city.png)
 
-If a shape is added, the table will update itself by filtering further to only display the information containing the shape. Moreover, two or more criteria can be used to filter as well.
+If a shape is added, the table will update itself by filtering further to only display the information containing the shape. Moreover, two or more criteria can be used to filter as well, Or if the previous enteries are deleted and we now enter a new criteria **"State"** and **"Shape"**, the table will update using the new criteria as shown below.
 
 ![filterstateandshape](https://github.com/Adpetfem83/UFOs/blob/main/static/images/Filtered_by_State_%26_shape.png)
 
-Or if the previous enteries are deleted and we now enter a new criteria **"State"** and **"Shape"**, the table will update using your new criteria.
+The last one here was filtered by date and the resulting webpage is displayed below
 
 ![filterdate](https://github.com/Adpetfem83/UFOs/blob/main/static/images/Filtered_by_date.png)
 
