@@ -3,11 +3,11 @@
 
 # UFOs Sightings - a Javascript Assignment
 
-Using `Javascript` to build dynamic webpages and other customization tools that include `Bootstrap`, `HTML`, and `CSS`.
+In this challenge `Javascript` was used to build dynamic webpages and other customization tools that were used in this challenge include `Bootstrap`, `HTML`, and `CSS`.
 
 ## Project Overview
 
-The purpose of this project was to learn how to take data that is stored as a `JavaScript` array or list and create a table to organize the information that will visually adjust as "events" change (i.e. filtering). In order to react when an element is changed, we use `Javascript` functions to loop through the data to build the table and create a customized dashboard. The customizations include filters with event listeners that will record the information when an element has changed and develop an interactive webpage. Filters can be applied in many ways. In this exercise, we reviewed how to display default data in the table, listen for a button click or trigger the table to update based on the user's input with a select criteria. Finally, we use `HTML`, `Bootstrap` and `CSS` to read the `Javascript` code and create a webpage that is easy to view, includes filters, images, and a synopsis of the topic.
+The aim of this project was to learn how to take data that is stored as a `JavaScript` array or list and create a table to organize the information that will visually adjust the information mainly by filtering. Javascript functions were used to loop through the data to build the table and create an customized dashboard. The customizations include filters with event listeners that will record the information when an element has changed and develop an interactive webpage. Filters can be applied in many ways. In this exercise, we reviewed how to display default data in the table, listen for a button click or trigger the table to update based on the user's input with a select criteria. Finally, we use `HTML`, `Bootstrap` and `CSS` to read the `Javascript` code and create a webpage that is easy to view, includes filters, images, and a synopsis of the topic.
 
 ## Topic
 
@@ -17,49 +17,49 @@ Are we alone in this universe? UFO sightings have been an obsession among many f
 * A table to display all of the information from the data source
 * Search filters that will allow for visitors to update the table based on the search criteria they enter.    
 
-![UFO](https://github.com/amylio/UFOs/blob/main/static/images/UFOimage.jpg)
+![UFO](https://github.com/Adpetfem83/UFOs/blob/main/static/images/UFOs_image.jpeg)
 
 ## Results
 
 The webpage **[UFO Sightings - The Truth is Out There](https://amylio.github.io/UFOs/)** has been created. Upon entering, visitors embarking on their "first encounter" will see:
 
-![webpage](https://github.com/amylio/UFOs/blob/main/static/images/finalwebpage.png)
+![webpage](https://github.com/Adpetfem83/UFOs/blob/main/static/images/Image_nasa.jpg)
 
 You will notice that a **"Filter Search"** section has been added. 
 
-![filter](https://github.com/amylio/UFOs/blob/main/static/images/Filtertable.png)
+![unfilter](https://github.com/Adpetfem83/UFOs/blob/main/static/images/Unfiltered_page.png)
 
 You can filter by one or all of the search criteria shown. For example, if you search by **"City"**, you will see that the table updated to show the reported sightings that was recorded for that specific city.
 
-![filtercity](https://github.com/amylio/UFOs/blob/main/static/images/FilterCity.png)
+![filtercity](https://github.com/Adpetfem83/UFOs/blob/main/static/images/Filtered_by_city.png)
 
 If you add a shape, the table will update filtering further to only display the information containing that shape.
 
-![filtercityshape](https://github.com/amylio/UFOs/blob/main/static/images/filtercityshape.png)
+![filterstateandshape](https://github.com/Adpetfem83/UFOs/blob/main/static/images/Filtered_by_State_%26_shape.png)
 
 Or if you delete your previous entries and enter **"State"** and **"Shape"**, the table will update using your new criteria.
 
-![filterstateshape](https://github.com/amylio/UFOs/blob/main/static/images/filterstateshape.png)
+![filterdate](https://github.com/Adpetfem83/UFOs/blob/main/static/images/Filtered_by_date.png)
 
 ## Summary
 
-**Drawbacks:**
+**Some Drawbacks:**
 
-Unfortunately, the page has several drawbacks. They include:
-
-* The search field is "case-sensitive". The table will not update if you do not enter exactly how the data is stored and does not allow for partial entries. This is an issue because it does not intuitively tell the user how the information should be entered other than the "default" example shown. 
-
-* There is no button to click, wording or action that tells the user that the table will update after you hit "enter".
+Some of the drawbacks incude the following:
 
 * The data is limited and outdated since it is not linked to a "live" source.
 
+* There is no instruction on the button to click or action that tells the user that the table will update after hitting "enter".
+
+* Finally, the search field is "case-sensitive". The table will not be updated unless the exact data is stored, and correctly entered. it does not allow for partial entries. This is an issue because it does not intuitively tell the user how the information should be entered other than the "default" example shown. 
+
 **Recommendations for further development:**
 
-With the following enhancements, it can greatly improve the user's experience.
+Additionally, if the following improvements are effected, it would greatly improve the user's experience.
 
-* Add additional customizations, such as click-buttons, dropdown list, and/or auto-fill that can help "guide" the user and make the page more interactive.
+* Additional customizations such as click-buttons, dropdown list, and/or auto-fill that can help "guide" the user and will make the page more interactive.
 
-* Add functionality to pull the data from a live source that includes current and archived data not limited to only the United States, but globally.
+* Additional functionality to pull the data from a live source should be added. They should include current and archived data not limited to only the United States, but globally.
 
-* Add a "Latest News" section that will highlight an article showing the most recent reported sighting.
+* Also, "Latest News" section that will highlight an article showing the most recent reported sighting of UFOs should be added..
  
