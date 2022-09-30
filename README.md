@@ -25,7 +25,7 @@ The webpage **[UFO Sightings - The Truth is Out There](https://amylio.github.io/
 
 ![webpage](https://github.com/Adpetfem83/UFOs/blob/main/static/images/Image_nasa.jpg)
 
-You will notice that a **"Filter Search"** section has been added. 
+As it is displayed below a **"Filter Search"** section has be added to make it easy for more updates on the limited data it contains . 
 
 ![unfilter](https://github.com/Adpetfem83/UFOs/blob/main/static/images/Unfiltered_page.png)
 
@@ -33,11 +33,11 @@ You can filter by one or all of the search criteria shown. For example, if you s
 
 ![filtercity](https://github.com/Adpetfem83/UFOs/blob/main/static/images/Filtered_by_city.png)
 
-If you add a shape, the table will update filtering further to only display the information containing that shape.
+If a shape is added, the table will update itself by filtering further to only display the information containing the shape. Moreover, two or more criteria can be used to filter as well.
 
 ![filterstateandshape](https://github.com/Adpetfem83/UFOs/blob/main/static/images/Filtered_by_State_%26_shape.png)
 
-Or if you delete your previous entries and enter **"State"** and **"Shape"**, the table will update using your new criteria.
+Or if the previous enteries are deleted and we now enter a new criteria **"State"** and **"Shape"**, the table will update using your new criteria.
 
 ![filterdate](https://github.com/Adpetfem83/UFOs/blob/main/static/images/Filtered_by_date.png)
 
